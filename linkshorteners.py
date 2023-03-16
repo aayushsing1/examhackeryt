@@ -1,3 +1,7 @@
+# pip install pyshorteners
+# MUST INSTALL THIS LIBRARY TO USE THIS CODE.
+
+
 import pyshorteners
 
 # create an instance of the Shortener class
